@@ -1,0 +1,54 @@
+* Disable-им дефолтные значния браузера */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* text */
+h1 {
+  /* oтвечает за позицониравние текста left center right*/
+  text-align: center;
+  /* отвечает за реазмер шрифта */
+  font-size: 50px;
+  /* отвечает за толщину шрифта */
+  /* Принимает значение 100-800, lighter,  bold, normal */
+  font-weight: 800;
+  /* Отевачет за цвет текста */
+  color: blue;
+  /* За шрифт текста */
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+/* Отсупы(Spacing) */
+div {
+
+  /* это значение для ширины элемента */
+  width: 600px;
+  /* это значение для высоту элемента */
+  height: 260px;
+  /*  это значение для фонового цвета  */
+  background-color: #000000;
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+  padding: 10px 20px 30px 40px;
+  border: 10px solid green; */
+
+  border-radius: 20px;
+}
+
+
+
+
+
